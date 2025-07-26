@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Book Rental System</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { padding: 20px; background-color: #f7f7f7; }
+    .container { max-width: 700px; margin: auto; background: white; padding: 20px; border-radius: 10px; }
+    .nav-link { margin-right: 15px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="mb-4 text-center">📚 Book Rental System</h2>
+    <nav class="mb-4">
+      <a href="/" class="btn btn-primary">Home</a>
+      <a href="/rent" class="btn btn-secondary">Rent Book</a>
+      <a href="/return" class="btn btn-warning">Return Book</a>
+      <a href="/add" class="btn btn-success">Add Book</a>
+    </nav>
+
+    {% block content %}
+    {% endblock %}
+  </div>
+</body>
+</html>

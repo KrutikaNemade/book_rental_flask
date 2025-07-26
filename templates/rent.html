@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h4>Rent a Book</h4>
+<form method="post">
+  <div class="mb-3">
+    <label>Book ID:</label>
+    <input type="text" name="book_id" class="form-control" required>
+  </div>
+  <button type="submit" class="btn btn-primary">Rent</button>
+</form>
+{% endblock %}

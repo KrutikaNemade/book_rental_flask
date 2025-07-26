@@ -1,0 +1,5 @@
+1,The Alchemist,Paulo Coelho,Available
+2,1984,George Orwell,Available
+3,The Great Gatsby,F. Scott Fitzgerald,Available
+4,The Sterling Shore,C.M.Owens,Available
+5,Harry Potter: The Philosopher's stone,J.K.Rowling,Rented
