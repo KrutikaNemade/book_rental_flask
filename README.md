@@ -20,4 +20,4 @@ This is a mini project built using Python and Flask that allows users to rent, r
 - File handling with `.txt` file as storage
 
 Contributers:
-- [@KrutikaNemade](https://github.com/KrutikaNemade)
+- [@khushibhaisare](https://github.com/khushibhaisare)
